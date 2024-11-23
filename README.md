@@ -1,0 +1,2 @@
+# Nifty-Stock-Market-Analysis-and-Anomaly-Detection-Tool
+Nifty Stock Market Analysis and Anomaly Detection is a Python tool for analyzing Nifty 50 stock data. It preprocesses Excel files, calculates financial metrics (daily returns, moving averages, and volatility), and detects anomalies in stock trends using pandas and numpy. Results are exported to Excel, providing insights into market behavior.
